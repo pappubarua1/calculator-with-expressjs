@@ -1,0 +1,15 @@
+{
+  "name": "calculator-project",
+  "version": "1.0.0",
+  "description": "This a calculator website",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya barua",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
